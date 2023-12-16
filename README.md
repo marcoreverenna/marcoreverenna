@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Marco Reverenna</h2>
-<h3 align="center">I am a data scientist, currently engaged with the MoNA (Multi-omics Network Analysis) group at the Novo Nordisk Center for Biosustainability at DTU Biosustain. My academic journey includes a Master's in Biotechnology and a two-year specialization in Genomic Data Science from the University of Pavia, Italy. This latter experience has allowed me to delve deeply into my interest in mathematics, statistics, and omics sciences, combining advanced technical skills with a solid theoretical foundation.</h3>
+<h1 align="left">Marco Reverenna</h1>
+<h3 align="left">I am a data scientist, currently engaged with the MoNA (Multi-omics Network Analysis) group at the Novo Nordisk Center for Biosustainability at DTU Biosustain. My academic journey includes a Master's in Biotechnology and a two-year specialization in Genomic Data Science from the University of Pavia, Italy. This latter experience has allowed me to delve deeply into my interest in mathematics, statistics, and omics sciences, combining advanced technical skills with a solid theoretical foundation.</h3>
 
 - 🧬 I’m currently working on **proteomics, multi-omics analysis and deep learning for drug discovery.**
 - 🧩 I’m currently focusing on **building pipelines and deep learning.**
