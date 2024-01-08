@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🧬 I’m currently working on **proteomics, multi-omics analysis and deep learning for drug discovery.**
 - 🧩 I’m currently focusing on **building pipelines and deep learning.**
-- 🗂️ All of my projects are available at [🌐🔗🌐](https://github.com/marcoreverenna/project/).
 - 🚀 Interests: **deep learning, machine learning, data science, network science and drug discovery.**
 - More information about me in [my linkedin profile](https://www.linkedin.com/in/marco-reverenna-151787190/).
 
