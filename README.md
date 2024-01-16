@@ -39,12 +39,25 @@ Here are some ideas to get you started:
     <td>Database</td> 
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
   </tr>
+  
    <tr>
     <td>DevOps</td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></td>
-
+     <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
   </tr>
+
+<tr>
+    <td>Workflow Management</td>
+     <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Snakemake_logo_dark.png" alt="Snakemake" width="40" height="40"/></td>
+     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" alt="Nextflow" width="40" height="40"/></td>
+  </tr>
+
+<tr>
+    <td>Cloud</td>
+     <td><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="heroku" width="40" height="40"/> </td>
+  </tr>
+
 
   <tr> 
     <td>Data Science </td>
