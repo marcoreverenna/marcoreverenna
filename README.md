@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Marco Reverenna</h1>
-<h3 align="left">I am a data scientist, currently engaged with the MoNA (Multi-omics Network Analysis) group at the Novo Nordisk Center for Biosustainability at DTU Biosustain. My academic journey includes a Master's in Biotechnology and a two-year specialization in Genomic Data Science from the University of Pavia, Italy. This latter experience has allowed me to delve deeply into my interest in mathematics, statistics, and omics sciences, combining advanced technical skills with a solid theoretical foundation.</h3>
+<h2 align="left">Marco Reverenna</h2>
+<h4 align="left">I am a data scientist, currently engaged with the MoNA (Multi-omics Network Analysis) group at the Novo Nordisk Center for Biosustainability at DTU Biosustain. My academic journey includes a Master's in Biotechnology and a two-year specialization in Genomic Data Science from the University of Pavia, Italy. This latter experience has allowed me to delve deeply into my interest in mathematics, statistics, and omics sciences, combining advanced technical skills with a solid theoretical foundation.</h3>
 
 - 🧬 I’m currently working on **proteomics, multi-omics analysis and deep learning for drug discovery.**
 - 🧩 I’m currently focusing on **building pipelines and deep learning.**
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/marcoreverenna" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/marcoreverenna" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/marcoreverenna" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/marco-reverenna-151787190/" height="30" width="30" /></a>
   <a href="mailto:marcor@dtu.dk" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Danmarks_Tekniske_Universitet_%28logo%29.svg" alt="Email" height="30" width="30" /></a>
 </p>
