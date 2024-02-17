@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <tr>
     <td>Workflow Management</td>
-     <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Snakemake_logo_dark.png" alt="Snakemake" width="40" height="40"/></td>
-     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" alt="Nextflow" width="40" height="40"/></td>
+     <td><img src="https://github.com/snakemake/snakemake-workflow-catalog/blob/main/logo-snake.svg" alt="Snakemake" width="40" height="40"/></td>
+     <td><img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-logo-bg-light.svg" alt="Nextflow" width="40" height="40"/></td>
   </tr>
 
 <tr>
