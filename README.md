@@ -67,7 +67,7 @@ Here are some ideas to get you started:
      <td><img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" width="60" height="50"/></td>
      <td><img src="https://seaborn-pydata-org.translate.goog/_images/logo-wide-lightbg.svg?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it&_x_tr_pto=tc" alt="Seaborn" width="60" height="50"/></td> 
      <td><img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Sklearn" width="60" height="50"/></td>
-     <td><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" alt="Tensorflow" width="60" height="50"/></td>
+     <td><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" alt="Tensorflow" width="60" height="50"/></td>
 
 
 
