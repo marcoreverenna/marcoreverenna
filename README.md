@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h4 align="left">I am a data scientist, currently engaged with the MoNA (Multi-omics Network Analysis) group at the Novo Nordisk Center for Biosustainability at DTU Biosustain. My academic journey includes a Master's in Biotechnology and a two-year specialization in Genomic Data Science from the University of Pavia, Italy. This latter experience has allowed me to delve deeply into my interest in mathematics, statistics, and omics sciences, combining advanced technical skills with a solid theoretical foundation.</h3>
 
 - 🧬 I’m currently working on **proteomics, multi-omics analysis and deep learning for drug discovery.**
-- 🧩 I’m currently focusing on **building pipelines and deep learning.**
-- 🚀 Interests: **deep learning, machine learning, data science, network science and drug discovery.**
+- 🧩 I’m currently focusing on **graph machine learning applied to proteomics data.**
+- 🚀 Interests: **machine learning, data science, network science and drug discovery.**
 - More information about me in [my linkedin profile](https://www.linkedin.com/in/marco-reverenna-151787190/).
 
 <hr>
