@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Researcher in proteomics and machine learning</h2>
+<h2 align="left">Researcher</h2>
 <h4 align="left">PhD student in computer science and biology, currently engaged with the MoNA (Multi-omics Network Analysis) group at the Novo Nordisk Center for Biosustainability (DTU).</h3>
-
-- 🧬 I’m currently working on **proteomics and metaproteomics.**
-- 🧩 I’m currently focusing on **graph machine learning applied to proteomics data and multi-omics.**
-- 🚀 Interests: **machine learning and data science.**
 - More information about me in my [linkedin profile](https://www.linkedin.com/in/marco-reverenna-151787190/).
 
 <hr>
